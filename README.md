@@ -1,2 +1,2 @@
-# Pre-Bootcamp-Public
+# Bootcamp-Public
 first repo created for coding dojo
